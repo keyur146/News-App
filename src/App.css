@@ -1,0 +1,21 @@
+body{
+  background: gray;
+}
+
+.card {
+  box-shadow: 2px 2px 5px rgb(0, 0, 0);
+  border-radius: 15px;
+  background: #000000;
+  width: 90%;
+}
+
+.card-body {
+  background: #000000;
+  border-bottom-left-radius: 15px !important;
+  border-bottom-right-radius: 15px !important;
+  color: rgb(221, 221, 221);
+}
+
+.card-img-top {
+  border-radius: 15px;
+}
